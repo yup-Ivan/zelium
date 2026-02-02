@@ -20,7 +20,7 @@ It is designed to:
 
 - 🧠 Intelligent abstraction over Selenium  
 - 🔁 Reuse of common logic via helpers  
-- 🛡️ Robustness against dynamic elements (React, Vue, etc.)  
+- 🛡️ Robustness against dynamic elements
 - 🧩 Clean, readable, and consistent API  
 - 🌍 Multilanguage support (aliases in Spanish / English)
 
