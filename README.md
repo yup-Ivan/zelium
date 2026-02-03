@@ -1,5 +1,10 @@
 # ZELIUM
 
+## You can install it using these instructions:
+```text
+pip install zelium
+```
+
 **ZELIUM** is a web automation framework based on **Selenium**, written in **Python**, designed to **simplify, standardize, and accelerate** the creation of web automation scripts.
 
 It is designed to:
