@@ -1,4 +1,4 @@
-# Zelium/tools.py
+# zelium/tools.py
 from selenium.common.exceptions import WebDriverException
 
 def open(url, driver):
