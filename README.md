@@ -10,7 +10,7 @@ It is designed to:
 
 ---
 
-## You can install it using these instructions:
+## 🛠️ You can install it using these instructions:
 ```text
 python -m venv venv
 .\venv\Scripts\activate.bat // source venv/bin/activate
