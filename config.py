@@ -1,4 +1,4 @@
-# Zelium/config.py
+# zelium/config.py
 import os
 from seleniumwire import webdriver as sw_webdriver
 from selenium import webdriver as selenium_normal
