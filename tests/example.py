@@ -1,11 +1,11 @@
-import zelium as Zelium
+import zelium
 import time
 
-driver = Zelium.start()
+driver = zelium.start()
 
-Zelium.open("https://example.com/", driver)
+zelium.open("https://example.com/", driver)
 
-Zelium.click("/html/body/div/p[2]/a", driver)
+zelium.click("/html/body/div/p[2]/a", driver)
 
 time.sleep(5)
 
